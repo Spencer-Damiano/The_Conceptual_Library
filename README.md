@@ -1,2 +1,2 @@
 # The_Conceptual_Library
-This is my capstone project and first serious adventure into education technology.
+This is my capstone project and first serious adventure into education technology. Better project description incoming...
