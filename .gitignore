@@ -1,0 +1,25 @@
+# .NET Core - Backend
+bin/
+obj/
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+*.user
+*.suo
+*.userprefs
+*.nupkg
+
+# SQLite Database files
+*.db
+*.sqlite
+
+# Public and Private Keys
+*.pem
+*.key
+
+# Logs
+logs/
+*.log
+
+# Output files
+/wwwroot/
